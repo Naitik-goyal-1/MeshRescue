@@ -1,0 +1,10 @@
+{
+  "name": "MeshRescue",
+  "description": "Zero-Internet Emergency Mesh Communication Platform. Connect via WebRTC, relay messages, and survive offline.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation",
+    "bluetooth"
+  ]
+}
